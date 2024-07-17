@@ -1,4 +1,2 @@
-# This file contains whatever paths we want omitted from the git tracking.
-
-#JetBrains
-/.idea
+.jekyll-cache/
+_site/
