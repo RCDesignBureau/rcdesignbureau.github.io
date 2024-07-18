@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+url: 'https://rcdesignbureau.net'
+baseurl: '/'
+title: 'RC Design Bureau'
+description: 'RCDB Website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "logo.png"
 
 # Pagination
 paginate: 5
@@ -36,8 +36,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
+- title: About Us
   url: /about/
+- title: Our Products
+  url: /products/
 - title: Blog
   url: /blog/
 
@@ -51,10 +53,13 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+    description: "Updates from our Team"
     feature_image: "https://picsum.photos/2560/600?image=866"
+  products:
+    title: Products
+    output: true
+    description: "Our Products"
+
 
 # Collection settings
 defaults:
@@ -70,3 +75,9 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  -
+    scope:
+      path: ""
+      type: "products"
+    values:
+      layout: product # Set the default layout for products
