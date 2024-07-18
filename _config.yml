@@ -40,6 +40,8 @@ navigation_header:
   url: /about/
 - title: Our Products
   url: /products/
+- title: Docs
+  url: https://rcdesignbureau.github.io/rcdb-docs/
 - title: Blog
   url: /blog/
 
