@@ -27,6 +27,8 @@ title: 'RC Design Bureau'
 description: 'RCDB Website'
 permalink: pretty
 logo: "logo.png"
+fonts:
+  primary: Arial
 
 # Pagination
 paginate: 5
@@ -41,7 +43,7 @@ navigation_header:
 - title: Our Products
   url: /products/
 - title: Docs
-  url: https://rcdesignbureau.github.io/rcdb-docs/
+  url: /rcdb-docs/
 - title: Blog
   url: /blog/
 
