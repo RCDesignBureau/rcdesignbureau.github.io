@@ -5,4 +5,4 @@ feature_text: |
   ## RC Design Bureau
 ---
 
-There isn't much going on here yet, but watch this space
+Paste our finished multi-sentence pitch here as a start.

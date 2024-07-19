@@ -44,8 +44,8 @@ navigation_header:
   url: /products/
 - title: Docs
   url: /rcdb-docs/
-- title: Blog
-  url: /blog/
+- title: Blog/Subreddit
+  url: //
 
 # Footer nav
 navigation_footer:
