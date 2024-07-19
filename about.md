@@ -2,8 +2,6 @@
 title: About Us
 ---
 
-Past our finished multi-sentence pitch here as a start.
-
-Member Bios can go below it, with all roles and relevant details of course
+Member Bios can go here, with all roles and relevant details of course
 
 
