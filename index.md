@@ -1,5 +1,5 @@
 ---
-title: Welcome to the RCDB website!
+title: RCDB
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
