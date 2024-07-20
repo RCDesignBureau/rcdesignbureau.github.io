@@ -25,7 +25,7 @@ url: 'https://rcdesignbureau.net'
 baseurl: '/'
 title: 'RC Design Bureau'
 permalink: pretty
-logo: "assets/logos/logo@180px.png"
+logo: "assets/logos/logo.svg"
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   16: '/assets/logos/logo@16px.png'
   32: '/assets/logos/logo@32px.png'
