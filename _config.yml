@@ -25,13 +25,13 @@ url: 'https://rcdesignbureau.net'
 baseurl: '/'
 title: 'RC Design Bureau'
 permalink: pretty
-logo: "/logo.png"
+logo: "logo.png"
 fonts:
   primary: Arial
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: products/page:num
 
 # Header nav
 navigation_header:
