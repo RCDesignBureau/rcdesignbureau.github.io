@@ -24,7 +24,6 @@ plugins:
 url: 'https://rcdesignbureau.net'
 baseurl: '/'
 title: 'RC Design Bureau'
-description: 'RCDB Website'
 permalink: pretty
 logo: "logo.png"
 fonts:
@@ -44,13 +43,13 @@ navigation_header:
   url: /products/
 - title: Docs
   url: /rcdb-docs/
-- title: Our Subreddit
-  url: //
+- title: Subreddit
+  url: https://www.reddit.com/r/rcdesignbureau/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title:
+  url:
 
 # Collections
 collections:
