@@ -29,9 +29,6 @@ logo: "assets/logo.png"
 fonts:
   primary: Arial
 
-# Pagination
-paginate: 5
-paginate_path: products/page:num
 
 # Header nav
 navigation_header:
