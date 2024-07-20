@@ -25,7 +25,7 @@ url: 'https://rcdesignbureau.net'
 baseurl: '/'
 title: 'RC Design Bureau'
 permalink: pretty
-logo: "logo.png"
+logo: "assets/logo.png"
 fonts:
   primary: Arial
 
