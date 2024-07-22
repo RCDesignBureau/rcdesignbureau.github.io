@@ -46,7 +46,7 @@ navigation_header:
 - title: About Us
   url: /about/
 - title: Our Products
-  url: /products/
+  url: https://store.rcdesignbureau.com
 - title: Docs
   url: /rcdb-docs/
 - title: Subreddit
