@@ -24,8 +24,12 @@ plugins:
 url: 'https://rcdesignbureau.com'
 baseurl: '/'
 title: 'RC Design Bureau'
-permalink: pretty
-logo: "assets/logos/logo.svg"
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: US/Pacific # Timezone for blog posts and alike
+logo: "assets/logos/logo@180px.png"
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   16: '/assets/logos/logo@16px.png'
   32: '/assets/logos/logo@32px.png'
@@ -35,7 +39,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   180: '/assets/logos/logo@180px.png'
   512: '/assets/logos/logo@512px.png'
   1024: '/assets/logos/logo@1024px.png'
-fonts:
+
+custom_fonts:
   primary: Arial
 
 
@@ -56,18 +61,6 @@ navigation_header:
 navigation_footer:
 - title:
   url:
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "Updates from our Team"
-    feature_image: "https://picsum.photos/2560/600?image=866"
-  products:
-    title: Products
-    output: true
-    description: "Our Products"
 
 
 # Collection settings

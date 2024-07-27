@@ -1,10 +1,9 @@
 ---
-title: <center>Welcome to the RC Design Bureau</center>
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
+**<font size="7"><center>We are the RC Design Bureau!</center></font>**
 <br>
-
 <center> 
 For seasoned racers with a need for speed, the RC Design Bureau (RCDB) is an RC performance-enhancing product and design company.  
 Unlike other RC performance outfits, all of our parts are original designs made by an innovative team dedicated to enhancing the performance of existing vehicles.
