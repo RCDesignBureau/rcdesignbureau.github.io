@@ -1,5 +1,5 @@
 ---
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "assets/2021-03-05.png"
 ---
 
 **<font size="7"><center>We are the RC Design Bureau!</center></font>**
