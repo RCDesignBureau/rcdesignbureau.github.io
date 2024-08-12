@@ -13,11 +13,15 @@ I am currently a rising senior in high school and am looking to continue this ve
 
 **<font size="6">Antonio O'Hara</font>**
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Parturient convallis ligula sollicitudin iaculis nostra mi. Habitant dolor sit eget ad at sollicitudin. Efficitur porttitor metus sed sagittis accumsan vulputate. 
-Risus felis enim magna dolor rutrum lectus in sodales. Felis aptent libero integer justo metus nunc. Litora consectetur at nostra cubilia ex ex blandit aliquet.
+My name is Antonio O’Hara and I specialize in hardware design and manufacturing. 
+I am a co-founder, COO, and CTO of RCDB. I first started in on-road RC racing six years ago, making my own parts from the very beginning. 
+On road RC then led me into RC fixed wing aircraft and first person view quadcopters which helped hone my skills. Since then, I have excelled with designing and implementing 3D printed composites into RC. 
+I have also found great success in affordably reproducing and improving OEM RC parts. Currently a rising sophomore in high school, I can see myself continuing to design and produce RC parts.
 
 **<font size="6">Edward O'Hara</font>**
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Parturient convallis ligula sollicitudin iaculis nostra mi. Habitant dolor sit eget ad at sollicitudin. Efficitur porttitor metus sed sagittis accumsan vulputate. 
-Risus felis enim magna dolor rutrum lectus in sodales. Felis aptent libero integer justo metus nunc. Litora consectetur at nostra cubilia ex ex blandit aliquet.
-
+My name is Edward O’Hara and I specialize in CAD design and marketing. 
+I am a co-founder, CMO, and CXO of RCDB. My brother introduced me to RC, which led to me designing and modifying my RC cars. 
+I continued to spiral into the rabbit hole of RC for several years and have accumulated a collection of RC trucks and custom-built drones. 
+Eventually, I earned myself a position as an intern at an IT company, where I developed marketing skills, as well as my knowledge of business. 
+I am a rising freshman in high school and have taken and will continue to take numerous courses on the intricacies of business.
