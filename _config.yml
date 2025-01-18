@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://rcdesignbureau.com'
-baseurl: '/'
+baseurl: ''
 title: 'RC Design Bureau'
 sass:
   style: compressed # Style compression
